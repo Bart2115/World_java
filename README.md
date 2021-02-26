@@ -1,1 +1,1 @@
-# World_java
+This is project for second semester at GUT. It is turn based game called 'world' which is about organism living on the world. Everyone have special behavior and skills based on it self class. Project is written in Cpp and Java. Both have option to save and load the game. Java version have graphic interface.
